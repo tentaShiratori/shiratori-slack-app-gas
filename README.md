@@ -10,7 +10,11 @@ cd sample
 clasp create --title Sample --type webapp
 ```
 
+生成される`.clasp.json`の`rootDir`は`.`に変更する
+
 2. プロジェクトの初期設定
+
+`packge.json`の`lib`のインストール元は適宜変更すること
 
 ```sh
 echo '{
