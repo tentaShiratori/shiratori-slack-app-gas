@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "bin": {
+    "bundler": "./build.js"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.75",
+    "esbuild": "^0.19.4",
+    "esbuild-gas-plugin": "^0.8.0"
+  }
+}
