@@ -1,5 +1,7 @@
 # shiratori-slack-app
 
+# @slack/boltがgas上じゃ使えなくて頓挫
+
 ## エンドポイントの作成からデプロイまで
 
 1. プロジェクトの作成
